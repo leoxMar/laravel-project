@@ -1,0 +1,31 @@
+.panini {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.loso {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.spa {
+    margin-left: 7%;
+}
+
+.losos {
+    width: 50%;
+    margin-left: 30%;
+    margin-top: 5%
+}
+
+.poco {
+    padding-left: 40px !important;
+}
+
+body {
+    background-color: rgb(206, 179, 179);
+}
+
+.tp {
+    margin-top: 50px !important;
+}
